@@ -4,7 +4,7 @@ Harvard's CS50p is an introduction to programming using a language called Python
 
 I created this repository to save all my solutions for the problems proposed on the course. Every exercise got the maximum score on submission and all of them were stylized by [Black](https://github.com/psf/black).
 
-My main motivation to take this course was because I was taking a Python class on my college and I wanted to practice some Python I learned in [CS50x](https://cs50.harvard.edu/x/2022/). If you want to do the same as me or just learn Python, I highly recommend you to take this course.
+My main motivation to take this course was my Python class on college, so I wanted to practice some Python I learned in [CS50x](https://cs50.harvard.edu/x/2022/). If you want to do the same as me or just learn Python, I highly recommend you to take this course.
 > By the way I also have a repo of my CS50x solutions [here](https://github.com/isaacvicente/CS50x-2022/).
 
 ## Academic Honesty
